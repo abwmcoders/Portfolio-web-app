@@ -23,7 +23,7 @@ const String coffeeAddict = "coffee addict";
 const String ksIntrovert = "an introvert";
 const String ksIm = "I'm";
 const String ksIntro = """
-  Hi, I'm Ye Lwin Oo!
+  Hi, I'm Abdul-Wahab Malik Oo!
     - a passionate mobile developer
     - a CDM student from UCSM
     - an avid reader
